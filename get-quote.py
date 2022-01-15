@@ -1,6 +1,6 @@
 import random
 def primary():
-  f = open("python-random-quote/quotes.txt")
+  f = open("quotes.txt")
   quotes = f.readlines()
   f.close()
   last = len(quotes) - 3
