@@ -1,3 +1,6 @@
+Additional quote1
+Additional quote2
+Additional quote3
 Responsive is better than fast
 It’s not fully shipped until it’s fast
 Anything added dilutes everything else
